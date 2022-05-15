@@ -9,6 +9,7 @@ header{
     justify-content: space-between;
     align-items: center;
     color: #fff;
+    print-color-adjust:exact;
 
 }
 .dsmovie-nav-content h1 {
